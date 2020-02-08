@@ -11,3 +11,7 @@ public static void main(String[]args){
 public static double dodaj(double a, double b){
     return a+b;
 }
+
+public static void wyswietl(){
+    System.out.println("Jakis napis");
+}
